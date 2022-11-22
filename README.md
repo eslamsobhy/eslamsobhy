@@ -1,8 +1,10 @@
-### Hi there 👋
+### Hi there! 👋
 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dracula&animation=grow_out_in&layout=churchill)
 
 I'm Eslam Sobhy, a junor Software Engineer skilled in Web Development with a Bachelor's degree focused in Computer Science from Ain Shams University (ASU).
+
+**Also, I Love Android 💙**
 
 [![Linkedin Badge](https://img.shields.io/badge/-EslamSobhy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eslam-sobhy/)](https://www.linkedin.com/in/eslam-sobhy-800249175//)
 
@@ -26,3 +28,13 @@ I'm Eslam Sobhy, a junor Software Engineer skilled in Web Development with a Bac
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=eslamsobhy)
 
 
+### My Progress
+
+[comment]: <> (for streak dark theme => &theme=dark || for progress dark theme => &theme=react)
+<p align="center">
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=eslamsobhy&theme=dark" alt="streak"/> <br>
+	<a href="https://github.com/eslamsobhy">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=eslamsobhy&show_icons=true&count_private=true&theme=react&include_all_commits=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=eslamsobhy&theme=react&layout=compact"/>
+</a> 
+</p>
