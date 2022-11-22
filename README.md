@@ -15,9 +15,14 @@ I'm Eslam Sobhy, a junor Software Engineer skilled in Web Development with a Bac
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 [![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)
-[![Laravel](https://img.shields.io/badge/Laravel-0.8-red)]
+![Laravel](https://img.shields.io/badge/Laravel-0.8-red)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-[![git](https://badgen.net/badge/icon/git?icon=git&label)](https://git-scm.com)
-[![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=eslamsobhy&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eslamsobhy&hide=TeX&layout=compact)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=eslamsobhy)
 
 
