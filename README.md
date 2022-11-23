@@ -34,7 +34,7 @@ I'm Eslam Sobhy, a junor Software Engineer skilled in Web Development with a Bac
 <p align="center">
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=eslamsobhy&theme=dark" alt="streak"/> <br>
 	<a href="https://github.com/eslamsobhy">
-  <img height="150em" src="https://github-readme-stats-nu-flax-54.vercel.app//api?username=eslamsobhy&show_icons=true&count_private=true&theme=react&include_all_commits=true"/>
+  <img height="150em" src="https://github-readme-stats-nu-flax-54.vercel.app/api?username=eslamsobhy&show_icons=true&count_private=true&theme=react&include_all_commits=true"/>
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=eslamsobhy&theme=react&layout=compact"/>
 </a> 
 </p>
