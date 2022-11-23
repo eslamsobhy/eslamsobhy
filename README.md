@@ -1,7 +1,7 @@
 ### Hi there! 👋
 
 <!-- ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dracula&animation=grow_out_in&layout=churchill) -->
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&color=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 I'm Eslam Sobhy, a junor Software Engineer skilled in Web Development with a Bachelor's degree focused in Computer Science from Ain Shams University (ASU).
 
