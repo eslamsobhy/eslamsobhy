@@ -7,7 +7,7 @@ I'm Eslam Sobhy, a junor Software Engineer skilled in Web Development with a Bac
 
 **Also, I Love Android 💙**
 
-[![Linkedin Badge](https://img.shields.io/badge/-EslamSobhy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eslam-sobhy/)](https://www.linkedin.com/in/eslam-sobhy-800249175//)
+[![Linkedin Badge](https://img.shields.io/badge/-EslamSobhy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eslam-sobhii/)](https://www.linkedin.com/in/eslam-sobhii//)
 
 [![Gmail Badge](https://img.shields.io/badge/-eslamsobhy206@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eslamsobhy206@gmail.com)](mailto:eslamsobhy206@gmail.com)
 
@@ -18,7 +18,7 @@ I'm Eslam Sobhy, a junor Software Engineer skilled in Web Development with a Bac
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 [![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)
-![Laravel](https://img.shields.io/badge/Laravel-0.8-red)
+![Laravel](https://img.shields.io/badge/Laravel-8.0-red)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
